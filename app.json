@@ -1,0 +1,15 @@
+{
+  "expo": {
+  	"name": "EncuentraloTodo",
+  "icon": "",
+  "version": "53.1.0",
+  "slug": "encuentralotodo",
+    "sdkVersion": "27.0.0"
+  },
+   "ios": {
+    "bundleIdentifier": "com.encuentralotodo.encuentralotodo"
+  },
+  "android": {
+    "package": "com.encuentralotodo.encuentralotodo"
+  }
+}
